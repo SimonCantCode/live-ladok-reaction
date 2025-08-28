@@ -1,4 +1,6 @@
-# Live Ladok reaction
+# Live Ladok reaction [BROKEN]
+> [!NOTE]
+> I suck at web developement, apparently ladok blocks "csp" so i cant load my own images, also i suspect the script ran too early again so it didnt even change the text. Sorry for hypig this up in advande, i really thaught it would work on the real site and not just the cache i used for developement :,(
 Have you ever failed a course only to think "Man, I wish this was more humiliating". Well then you're in luck! Introducing the live Ladok reaction, an extension (really just a script) that adds a GIF of a cat laughing hysterically at you in case you fail a course or test in Ladok. See figure 1 for an example screenshot.
 
 
